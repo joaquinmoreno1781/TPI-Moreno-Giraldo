@@ -1,2 +1,4 @@
 print("gay")
-quiero queque
+print("quiero queque")
+for i in range(1,10):
+    print(i)
